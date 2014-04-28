@@ -10,6 +10,7 @@ Set up an instance of Huggin via Vagrant
 
 	2. Start Vagrant
 
+	cd vagrant-huginn
 	Vagrant up
 
 	3. Test 
